@@ -1,15 +1,15 @@
 # RESTful-web-services-Spring-Boot
 
-Spring (Dependency Management), 
-Spring MVC (or Spring REST), 
-Spring Boot, 
-Spring Security (Authentication and Authorization), 
-Spring Boot Actuator (Monitoring), 
-Swagger (Documentation), 
-Maven (dependencies management), 
-Intellij (IDE), 
-Postman (REST Services Client),
-Tomcat Embedded Web Server. 
+* Spring (Dependency Management), 
+* Spring MVC (or Spring REST), 
+* Spring Boot, 
+* Spring Security (Authentication and Authorization), 
+* Spring Boot Actuator (Monitoring), 
+* Swagger (Documentation), 
+* Maven (dependencies management), 
+* Intellij (IDE), 
+* Postman (REST Services Client),
+* Tomcat Embedded Web Server. 
 
 Links from course examples
 Basic Resources
